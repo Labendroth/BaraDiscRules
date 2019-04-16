@@ -1,0 +1,2 @@
+# BaraDiscRules
+Bara Discord Rules
