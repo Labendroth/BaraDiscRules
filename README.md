@@ -1,2 +1,1 @@
-# BaraDiscRules
-Bara Discord Rules
+Changes to the Bara Discord
